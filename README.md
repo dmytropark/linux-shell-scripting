@@ -1,1 +1,1 @@
-# Shell(bash) scrpting tutorial
+# Shell(bash) scripting tutorial
